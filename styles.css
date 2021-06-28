@@ -39,3 +39,12 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+footer a{
+  text-decoration: none;
+  color: #EEEEEE;
+}
+
+footer a:hover{
+  color: #4ECCA3;
+}
